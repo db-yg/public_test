@@ -1,6 +1,15 @@
 {
-  "name": "Sol Coin",
+  "name": "Sol Token",
   "symbol": "SOLC",
-  "description": "这是我发行的第一个全功能 Web3 测试代币",
-  "image": "https://github.com/db-yg/public_test/blob/main/s/logo.png"
+  "description": "这是基于 Solana Devnet 发行的全功能测试代币",
+  "image": "https://github.com/db-yg/public_test/blob/main/s/logo.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://github.com/db-yg/public_test/blob/main/s/logo.png",
+        "type": "image/png"
+      }
+    ]
+  }
 }
