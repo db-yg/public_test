@@ -1,7 +1,7 @@
 {
   "name": "Sol Token",
   "symbol": "SOLC",
-  "description": "这是基于 Solana Devnet 发行的全功能测试代币",
+  "description": "test token",
   "image": "https://raw.githubusercontent.com/db-yg/public_test/main/s/logo.png",
   "attributes": [],
   "properties": {
